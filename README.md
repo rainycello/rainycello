@@ -24,8 +24,10 @@ Hello! My work bridges molecular microbiology and data science.
 <a href="https://www.megasoftware.net/" target="_blank">
 <img src="Mega.jpg" alt="MEGA" width="40"/>
 </a>
-  
-<img src="assets/chromas.png" alt="Chromas" width="40" />
+
+<a href="http://tree.bio.ed.ac.uk/software/Figtree/">  
+<img src="assets/Chromas.jpg" alt="Chromas" width="40" />
+</a>
 
 <a href="http://tree.bio.ed.ac.uk/software/Figtree/">
 <img src="Figtree.jpg" alt="FigTree" width="40" />
