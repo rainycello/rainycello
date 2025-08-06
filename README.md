@@ -1,16 +1,18 @@
-## Hi there 👋
+# Biotechnologist & Bioinformatician
 
-<!--
-**rainycello/rainycello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My work bridges molecular microbiology and data science.
 
-Here are some ideas to get you started:
+- **Molecular Microbiology Techniques**:
+  - PCR (conventional, real-time, and digital)
+  - 16S rRNA sequencing
+  - Clone identification of pathogenic bacteria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bioinformatics & Computational Biology**:
+  - Metagenomic and transcriptomic data analysis
+  - Experience with tools: `edgeR`, `MEGA`, `BIONUMERICS`, `Chromas`, `FigTree`
+  - Skilled in Python and Bash scripting
+  - Relational databases: `MySQL`, `MariaDB`
+
+<h>Projects Coming Soon</h>
+Stay tuned for repositories on:
+- 16S rRNA analysis workflows
