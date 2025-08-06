@@ -1,7 +1,8 @@
 # Biotechnologist & Bioinformatician
 Hello! My work bridges molecular microbiology and computational biology.
 
-## ʙɪᴏɪɴғᴏʀᴍᴀᴛɪᴄs
+## **ᶜᴼᴹᴾᵁᵀᴬᵀᴵᴼᴺᴬᴸ ᴮᴵᴼᴸᴼᴳᵞ**
+
 ### Tech Stack
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>](https://www.python.org/)
@@ -23,7 +24,7 @@ Hello! My work bridges molecular microbiology and computational biology.
 [<img src="Qiacuity.jpg" alt="Qiacuity Software Suite" width="40"/>](https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en)
 
 
-- **Molecular Microbiology Techniques**
+## **ᴹᴼᴸᴱᶜᵁᴸᴬᴿ ᴹᴵᶜᴿᴼᴮᴵᴼᴸᴼᴳᵞ**
   - PCR (conventional, real-time, and digital)
   - 16S rDNA sequencing
   - ERIC clone identification
