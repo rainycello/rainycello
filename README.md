@@ -1,4 +1,3 @@
-# Biotechnologist & Bioinformatician
 Hello! My work bridges molecular microbiology and computational biology.
 
 ## **𝗖𝗼𝗺𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗶𝗼𝗹𝗼𝗴𝘆**
