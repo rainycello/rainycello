@@ -5,17 +5,45 @@ Hello! My work bridges molecular microbiology and computational biology.
 
 ### Tech Stack
 
-<table style="background-color: white; border-collapse: collapse;">
+<style>
+  table.custom-tool-table {
+    background-color: white;
+    border-collapse: collapse;
+  }
+
+  table.custom-tool-table td, table.custom-tool-table th {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 4px;
+    text-align: center;
+  }
+
+  table.custom-tool-table th {
+    height: 120px;
+    vertical-align: bottom;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-weight: normal;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+
+  table.custom-tool-table a {
+    text-decoration: none;
+  }
+</style>
+
+<table class="custom-tool-table">
   <tr>
-    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Sequence Analyses</th>
-    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Metagenomics</th>
-    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Phylogenetics</th>
-    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Programming</th>
-    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Databases</th>
-    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Frameworks</th>
+    <th>Sequence Analyses</th>
+    <th>Metagenomics</th>
+    <th>Phylogenetics</th>
+    <th>Programming</th>
+    <th>Databases</th>
+    <th>Frameworks</th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://technelysium.com.au/wp/chromas/">
         <img src="Chromas.jpg" alt="Chromas" width="40"/>
       </a><br>
@@ -23,12 +51,12 @@ Hello! My work bridges molecular microbiology and computational biology.
         <img src="FinchTV.jpg" alt="FinchTV" width="40"/>
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en">
         <img src="Qiacuity.jpg" alt="Qiacuity" width="40"/>
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf">
         <img src="Bionumerics.jpg" alt="BIONUMERICS" width="40"/>
       </a><br>
@@ -39,7 +67,7 @@ Hello! My work bridges molecular microbiology and computational biology.
         <img src="Figtree.jpg" alt="FigTree" width="40"/>
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://www.python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
       </a><br>
@@ -53,7 +81,7 @@ Hello! My work bridges molecular microbiology and computational biology.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://www.mysql.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
       </a><br>
@@ -61,7 +89,7 @@ Hello! My work bridges molecular microbiology and computational biology.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://flask.palletsprojects.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
       </a>
