@@ -18,10 +18,13 @@ Hello! My work bridges molecular microbiology and data science.
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" />
 
-  <!-- Bioinformatics Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/R_logo.svg" alt="edgeR (R)" width="40" />
+</br>
+
 <!-- Bioinformatics Tools -->
-<img src="Mega.jpg" alt="MEGA" width="40" href="https://www.megasoftware.net/"/>
+<a href="https://www.megasoftware.net/" target="_blank">
+<img src="Mega.jpg" alt="MEGA" width="40"/>
+</a>
+  
 <img src="assets/chromas.png" alt="Chromas" width="40" />
 <img src="assets/figtree.png" alt="FigTree" width="40" />
 
