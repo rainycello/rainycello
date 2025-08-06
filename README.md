@@ -6,6 +6,8 @@ Hello! My work bridges molecular microbiology and computational biology.
 ### Tech Stack
 
 
+
+|--------------------|---------|
 | Sequence Analyses  | [<img src="Chromas.jpg" width="40"/>](https://technelysium.com.au/wp/chromas/) [<img src="FinchTV.jpg" width="40"/>](https://digitalworldbiology.com/FinchTV) |
 | Metagenomics       | [<img src="Qiacuity.jpg" width="40"/>](https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en) |
 | Phylogenetics      | [<img src="Bionumerics.jpg" width="40"/>](https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf) [<img src="Mega.jpg" width="40"/>](https://www.megasoftware.net/) [<img src="Figtree.jpg" width="40"/>](http://tree.bio.ed.ac.uk/software/Figtree/) |
