@@ -13,7 +13,7 @@ Hello! My work bridges molecular microbiology and computational biology.
 
 | Category               | Tool |
 |--------------------|---------|
-| Programming language       | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>](https://www.python.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>](https://www.gnu.org/software/bash/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>](https://www.typescriptlang.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>](https://www.r-project.org/) |
+| Programming languages       | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>](https://www.python.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>](https://www.gnu.org/software/bash/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>](https://www.typescriptlang.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>](https://www.r-project.org/) |
 | Databases          | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>](https://www.mysql.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/>](https://mariadb.org/) |
 | Frameworks         | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>](https://flask.palletsprojects.com/) |
 
