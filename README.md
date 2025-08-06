@@ -26,7 +26,10 @@ Hello! My work bridges molecular microbiology and data science.
 </a>
   
 <img src="assets/chromas.png" alt="Chromas" width="40" />
-<img src="assets/figtree.png" alt="FigTree" width="40" />
+
+<a href="http://tree.bio.ed.ac.uk/software/Figtree/">
+<img src="Figtree.jpg" alt="FigTree" width="40" />
+</a>
 
 <!-- Custom Bio Tools -->
 <img src="assets/bionumerics.png" alt="BIONUMERICS" width="40" />
