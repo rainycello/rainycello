@@ -31,7 +31,7 @@ Hello! My work bridges molecular microbiology and data science.
 </a>
 
 <a href="https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf">
-<img src="bionumerics.png" alt="BIONUMERICS" width="40" />
+<img src="Bionumerics.jpg" alt="BIONUMERICS" width="40" />
 </a>
 
 <img src="assets/finchtv.png" alt="FinchTV" width="40" />
