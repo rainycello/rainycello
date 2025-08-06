@@ -10,6 +10,9 @@ Hello! My work bridges molecular microbiology and computational biology.
 | Sequence Analyses  | [<img src="Chromas.jpg" width="40"/>](https://technelysium.com.au/wp/chromas/) [<img src="FinchTV.jpg" width="40"/>](https://digitalworldbiology.com/FinchTV) |
 | Metagenomics       | [<img src="Qiacuity.jpg" width="40"/>](https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en) |
 | Phylogenetics      | [<img src="Bionumerics.jpg" width="40"/>](https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf) [<img src="Mega.jpg" width="40"/>](https://www.megasoftware.net/) [<img src="Figtree.jpg" width="40"/>](http://tree.bio.ed.ac.uk/software/Figtree/) |
+
+| Category               | Tool |
+|--------------------|---------|
 | Programming        | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>](https://www.python.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>](https://www.gnu.org/software/bash/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>](https://www.typescriptlang.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>](https://www.r-project.org/) |
 | Databases          | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>](https://www.mysql.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/>](https://mariadb.org/) |
 | Frameworks         | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>](https://flask.palletsprojects.com/) |
