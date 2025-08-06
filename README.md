@@ -4,7 +4,7 @@ Hello! My work bridges molecular microbiology and data science.
 
 <p align="center">
   <img src="TRIPLEX POBÓR X 3 PŁYTKA 27.05.2025.jpg" alt="TRIPLEX PCR with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025" width="150"/><br/>
-  <sub><i>TRIPLEX POBÓR X 3 — PŁYTKA 27.05.2025</i></sub>
+  <sub>"TRIPLEX PCR for <i>Staphylococcus aureus</i> with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025"</sub>
 </p>
 
 
