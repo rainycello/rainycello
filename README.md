@@ -39,7 +39,7 @@ Hello! My work bridges molecular microbiology and data science.
 </a>
 
 <a href="https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en">
-<img src="Qiacuity.jpg" alt="Qiacuity Software Suite" width="60" />
+<img src="Qiacuity.jpg" alt="Qiacuity Software Suite" width="40" />
 </a>
 
 - **Molecular Microbiology Techniques**
