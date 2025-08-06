@@ -7,6 +7,7 @@ Hello! My work bridges molecular microbiology and data science.
   <sub><i>TRIPLEX POBÓR X 3 — PŁYTKA 27.05.2025</i></sub>
 </p>
 
+
 - **Molecular Microbiology Techniques**:
   - PCR (conventional, real-time, and digital)
   - 16S rRNA sequencing
