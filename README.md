@@ -21,7 +21,7 @@ Hello! My work bridges molecular microbiology and data science.
   <!-- Bioinformatics Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/R_logo.svg" alt="edgeR (R)" width="40" />
 <!-- Bioinformatics Tools -->
-<img src="Mega.jpg" alt="MEGA" width="40" />
+<img src="Mega.jpg" alt="MEGA" width="40" href="https://www.megasoftware.net/"/>
 <img src="assets/chromas.png" alt="Chromas" width="40" />
 <img src="assets/figtree.png" alt="FigTree" width="40" />
 
