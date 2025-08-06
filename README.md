@@ -18,6 +18,14 @@ Hello! My work bridges molecular microbiology and computational biology.
 
 </br>
 
+[![MEGA](Mega.jpg)](https://www.megasoftware.net/)
+[![Chromas](Chromas.jpg)](https://technelysium.com.au/wp/chromas/)
+[![FigTree](Figtree.jpg)](http://tree.bio.ed.ac.uk/software/Figtree/)
+[![BIONUMERICS](Bionumerics.jpg)](https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf)
+[![FinchTV](FinchTV.jpg)](https://digitalworldbiology.com/FinchTV)
+[![Qiacuity](Qiacuity.jpg)](https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en)
+
+
 <a href="https://www.megasoftware.net/" target="_blank">
 <img src="Mega.jpg" alt="MEGA" width="40"/>
 </a>
@@ -49,7 +57,7 @@ Hello! My work bridges molecular microbiology and computational biology.
    
 <p align="center">
   <img src="TRIPLEX POBÓR X 3 PŁYTKA 27.05.2025.jpg" alt="TRIPLEX PCR with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025" width="150"/><br/>
-  <sub>Conventional electrophoresis of TRIPLEX PCR for <i>Staphylococcus aureus</i> with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025</sub>
+  <sub>Electrophoresis of conventional multyplex PCR for <i>Staphylococcus aureus</i> with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025</sub>
 </p>
 
 <h>Coming Soon</h>
