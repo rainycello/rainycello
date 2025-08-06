@@ -5,9 +5,69 @@ Hello! My work bridges molecular microbiology and computational biology.
 
 ### Tech Stack
 
-| 🔬 Sequence Analyses | 🧬 Metagenomics | 🌿 Phylogenetics | 💻 Programming Languages | 🛢️ Databases | ⚙️ Frameworks |
-|----------------------|----------------|------------------|--------------------------|--------------|---------------|
-| [<img src="Chromas.jpg" alt="Chromas" width="40"/>](https://technelysium.com.au/wp/chromas/) <br> Chromas <br> [<img src="FinchTV.jpg" alt="FinchTV" width="40"/>](https://digitalworldbiology.com/FinchTV) <br> FinchTV | [<img src="Qiacuity.jpg" alt="Qiacuity Software Suite" width="40"/>](https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en) <br> Qiacuity Suite | [<img src="Bionumerics.jpg" alt="BIONUMERICS" width="40"/>](https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf) <br> BIONUMERICS <br> [<img src="Mega.jpg" alt="MEGA" width="40"/>](https://www.megasoftware.net/) <br> MEGA <br> [<img src="Figtree.jpg" alt="FigTree" width="40"/>](http://tree.bio.ed.ac.uk/software/Figtree/) <br> FigTree | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>](https://www.python.org/) <br> Python <br> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40"/>](https://www.gnu.org/software/bash/) <br> Bash <br> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>](https://www.typescriptlang.org/) <br> TypeScript <br> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40"/>](https://www.r-project.org/) <br> R | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>](https://www.mysql.com/) <br> MySQL <br> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40"/>](https://mariadb.org/) <br> MariaDB | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40"/>](https://flask.palletsprojects.com/) <br> Flask |
+<table>
+  <tr>
+    <th style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 10px;">Sequence Analyses</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 10px;">Metagenomics</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 10px;">Phylogenetics</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 10px;">Programming</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 10px;">Databases</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 10px;">Frameworks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://technelysium.com.au/wp/chromas/">
+        <img src="Chromas.jpg" alt="Chromas" width="40"/>
+      </a><br>
+      <a href="https://digitalworldbiology.com/FinchTV">
+        <img src="FinchTV.jpg" alt="FinchTV" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en">
+        <img src="Qiacuity.jpg" alt="Qiacuity" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf">
+        <img src="Bionumerics.jpg" alt="BIONUMERICS" width="40"/>
+      </a><br>
+      <a href="https://www.megasoftware.net/">
+        <img src="Mega.jpg" alt="MEGA" width="40"/>
+      </a><br>
+      <a href="http://tree.bio.ed.ac.uk/software/Figtree/">
+        <img src="Figtree.jpg" alt="FigTree" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+      </a><br>
+      <a href="https://www.gnu.org/software/bash/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+      </a><br>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+      </a><br>
+      <a href="https://www.r-project.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+      </a><br>
+      <a href="https://mariadb.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://flask.palletsprojects.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>](https://www.python.org/)
