@@ -1,7 +1,7 @@
 # Biotechnologist & Bioinformatician
 Hello! My work bridges molecular microbiology and data science.
 
-- **Bioinformatics**:
+- **Bioinformatics**
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -34,12 +34,14 @@ Hello! My work bridges molecular microbiology and data science.
 <img src="Bionumerics.jpg" alt="BIONUMERICS" width="40" />
 </a>
 
-<img src="assets/finchtv.png" alt="FinchTV" width="40" />
+<a href="https://digitalworldbiology.com/FinchTV">
+<img src="FinchTV.jpg" alt="FinchTV" width="40" />
+</a>
 
 <img src="assets/qiacuity.png" alt="Qiacuity Software Suite" width="60" />
 
 
-- **Molecular Microbiology Techniques**:
+- **Molecular Microbiology Techniques**
   - PCR (conventional, real-time, and digital)
   - 16S rDNA sequencing
   - ERIC clone identification
