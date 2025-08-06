@@ -1,8 +1,8 @@
 # Biotechnologist & Bioinformatician
 Hello! My work bridges molecular microbiology and computational biology.
 
-### ʙɪᴏɪɴғᴏʀᴍᴀᴛɪᴄs
-## Tech Stack
+## ʙɪᴏɪɴғᴏʀᴍᴀᴛɪᴄs
+### Tech Stack
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40"/>](https://www.gnu.org/software/bash/)
