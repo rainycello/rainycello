@@ -1,5 +1,5 @@
 # Biotechnologist & Bioinformatician
-Hello! My work bridges molecular microbiology and data science.
+Hello! My work bridges molecular microbiology and computational biology.
 
 - **Bioinformatics**
 ## 🛠️ Tech Stack
