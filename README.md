@@ -22,23 +22,23 @@ Hello! My work bridges molecular microbiology and data science.
 <img src="Mega.jpg" alt="MEGA" width="40"/>
 </a>
 
-<a href="https://technelysium.com.au/wp/chromas/">  
+<a href="https://technelysium.com.au/wp/chromas/" target="_blank">  
 <img src="Chromas.jpg" alt="Chromas" width="40" />
 </a>
 
-<a href="http://tree.bio.ed.ac.uk/software/Figtree/">
+<a href="http://tree.bio.ed.ac.uk/software/Figtree/" target="_blank">
 <img src="Figtree.jpg" alt="FigTree" width="40" />
 </a>
 
-<a href="https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf">
+<a href="https://www.bockytech.com.tw/PDF-File/bn_brochure.pdf" target="_blank">
 <img src="Bionumerics.jpg" alt="BIONUMERICS" width="40" />
 </a>
 
-<a href="https://digitalworldbiology.com/FinchTV">
+<a href="https://digitalworldbiology.com/FinchTV" target="_blank">
 <img src="FinchTV.jpg" alt="FinchTV" width="40" />
 </a>
 
-<a href="https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en">
+<a href="https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en" target="_blank">
 <img src="Qiacuity.jpg" alt="Qiacuity Software Suite" width="40" />
 </a>
 
