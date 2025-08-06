@@ -7,12 +7,12 @@ Hello! My work bridges molecular microbiology and computational biology.
 
 <table>
   <tr>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: left;">Sequence Analyses</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: left;">Metagenomics</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: left;">Phylogenetics</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: left;">Programming</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: left;">Databases</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: left;">Frameworks</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Sequence Analyses</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Metagenomics</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Phylogenetics</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Programming</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Databases</th>
+    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Frameworks</th>
   </tr>
   <tr>
     <td align="center">
