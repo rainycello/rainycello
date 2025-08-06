@@ -30,17 +30,15 @@ Hello! My work bridges molecular microbiology and data science.
 <img src="assets/finchtv.png" alt="FinchTV" width="40" />
 <img src="assets/qiacuity.png" alt="Qiacuity Software Suite" width="60" />
 
-
-
-<p align="center">
-  <img src="TRIPLEX POBÓR X 3 PŁYTKA 27.05.2025.jpg" alt="TRIPLEX PCR with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025" width="150"/><br/>
-  <sub>Conventional electrophoresis of TRIPLEX PCR for <i>Staphylococcus aureus</i> with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025</sub>
-</p>
-
 - **Molecular Microbiology Techniques**:
   - PCR (conventional, real-time, and digital)
   - 16S rDNA sequencing
   - ERIC clone identification
+   
+<p align="center">
+  <img src="TRIPLEX POBÓR X 3 PŁYTKA 27.05.2025.jpg" alt="TRIPLEX PCR with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025" width="150"/><br/>
+  <sub>Conventional electrophoresis of TRIPLEX PCR for <i>Staphylococcus aureus</i> with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025</sub>
+</p>
 
 <h>Coming Soon</h>
 RNAseq analysis workflows
