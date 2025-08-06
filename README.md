@@ -5,14 +5,14 @@ Hello! My work bridges molecular microbiology and computational biology.
 
 ### Tech Stack
 
-<table>
+<table style="background-color: white; border-collapse: collapse;">
   <tr>
-    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Sequence Analyses</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Metagenomics</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Phylogenetics</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Programming</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Databases</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(90deg); text-align: left;">Frameworks</th>
+    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Sequence Analyses</th>
+    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Metagenomics</th>
+    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Phylogenetics</th>
+    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Programming</th>
+    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Databases</th>
+    <th style="transform: rotate(90deg); writing-mode: vertical-lr; text-align: left; padding: 0 5px;">Frameworks</th>
   </tr>
   <tr>
     <td align="center">
