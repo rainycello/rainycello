@@ -28,4 +28,7 @@ Hello! My work bridges molecular microbiology and computational biology.
   <sub>Electrophoresis of conventional multyplex PCR for <i>Staphylococcus aureus</i> with 16S rDNA region and <i>mecA</i>, <i>nuc</i> genes  27.05.2025</sub>
 </p>
 
+<div style="background-color:#cce5ff; border-left: 6px solid #004085; padding: 10px; border-radius: 4px; color: #004085; font-weight: bold; max-width: fit-content;">
 RNAseq analysis workflows coming soon 🚀
+</div>
+
