@@ -38,8 +38,9 @@ Hello! My work bridges molecular microbiology and data science.
 <img src="FinchTV.jpg" alt="FinchTV" width="40" />
 </a>
 
-<img src="assets/qiacuity.png" alt="Qiacuity Software Suite" width="60" />
-
+<a href="https://www.qiagen.com/us/resources/resourcedetail?id=def90e09-0c22-4dad-ba8d-820fedb5ec0d&lang=en">
+<img src="Qiacuity.jpg" alt="Qiacuity Software Suite" width="60" />
+</a>
 
 - **Molecular Microbiology Techniques**
   - PCR (conventional, real-time, and digital)
