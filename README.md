@@ -25,7 +25,7 @@ Hello! My work bridges molecular microbiology and data science.
 <img src="Mega.jpg" alt="MEGA" width="40"/>
 </a>
 
-<a href="http://tree.bio.ed.ac.uk/software/Figtree/">  
+<a href="https://technelysium.com.au/wp/chromas/">  
 <img src="Chromas.jpg" alt="Chromas" width="40" />
 </a>
 
